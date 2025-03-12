@@ -53,8 +53,8 @@ Save crosstab proc tabulate feq report printed output in sas tables
 
              13 ods macros
 
-    github                                                                                                    
-    https://tinyurl.com/mrx5btmz                                                                              
+    github
+    https://tinyurl.com/mrx5btmz
     https://github.com/rogerjdeangelis/utl-save-crosstab-proc-tabulate-feq-report-printed-output-in-sas-tables
                                                                            
     macros

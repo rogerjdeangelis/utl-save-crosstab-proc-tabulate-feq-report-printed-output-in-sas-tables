@@ -16,6 +16,11 @@ SOAPBOX ON
 
 SOAPBOX ON
 
+github
+https://tinyurl.com/mrx5btmz
+https://github.com/rogerjdeangelis/utl-save-crosstab-proc-tabulate-feq-report-printed-output-in-sas-tables
+
+
 Best with classic 1980s dms editor?
 May give different results interactively in editors other than the classic 1980s editor
 
